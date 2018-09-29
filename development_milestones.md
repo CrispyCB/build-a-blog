@@ -1,6 +1,6 @@
 # Development Milestones For Build-A-Blog #
 
-[ ] Scaffold HTML, CSS and JS pages for application start
+[x] Scaffold HTML, CSS and JS pages for application start
 
 [ ] Style HTML, including JavaScript inclusions
 
