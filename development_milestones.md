@@ -2,7 +2,7 @@
 
 [x] Scaffold HTML, CSS and JS pages for application start
 
-[ ] Style HTML, including JavaScript inclusions
+[x] Style HTML, including JavaScript inclusions
 
 [ ] Develop array of front-end frameworks
 
