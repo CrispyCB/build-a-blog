@@ -26,13 +26,19 @@ p {
   text-align: center;
   border-radius: 5px;
 }
-#wrapper {
-  width:1025px;
-}
-#content {
-  float: left;
-}
 #buttons {
   float: right;
   margin-top: 1.5%;
+  }
+  #content {
+    float: left;
+  }
+  #new-front-end {
+    margin-top: 7%;
+  }
+  #wrapper {
+    width:1025px;
+  }
+  #whole-new-blog {
+    margin-left: -50%;
   }
